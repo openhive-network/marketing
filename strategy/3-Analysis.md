@@ -18,3 +18,26 @@ Hive is a decentralized project with no single leader or organizer. Several peop
 - Many of the key Hive stakeholders and active contributors are security and privacy-minded and unwilling to KYC their personal details to advertising portals
 - Hive is a brand new venture and due to the lack of marketing done in regards to Hive’s predecessor, Steem, there is no tried and tested list of best practices that are known to guarantee positive results 
 
+## SWOT Analysis
+
+### Strengths
+- Large, established and dedicated user-base
+- No single point of absolute failure due to decentralization
+- Growing DHF with a straight-forward proposal system that is transparent and must be used accountably by design
+
+### Weaknesses
+- Lack of central decision-making entity 
+- Difficulties in securing and processing fiat for payments to vendors and various advertisement options
+- Negative image inherited from the Steem days of ‘come make easy money for free’
+
+### Opportunities
+- First truly-decentralized DPoS blockchain story
+- Crowdsourced social media marketing and promotion
+- Second layer solutions can mitigate several Weaknesses
+
+### Threats
+- Apathy from news and outreach portals due to inability to deliver large bulk payments many cryptocurrency startups routinely pay
+- Challenges in coordination due to decentralization
+
+
+
