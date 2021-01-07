@@ -1,3 +1,5 @@
+*Ref:* [AMA story statements](https://gitlab.syncad.com/hive/marketing/amas/)
+
 ## Our Service
 
 Hive is a versatile and scalable blockchain with 3 second block times, fee-less transactions and a large user-base. We are the prime real estate for development. 
