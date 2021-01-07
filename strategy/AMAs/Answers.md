@@ -1,0 +1,54 @@
+## Batch 1
+*Ref:* [Kyros Ventures AMA](https://hive.blog/hiveblockchain/@hiveio/hive-and-kyros-ventures-ama)
+
+### Statement 1: 
+Hive is decentralized and does not rely on a single point of income generation or project contribution to sustain itself; there is no core team or company to fund. Most of the work is driven more by passion for the principles and ideals of Hive as a medium of freedom of expression and exchange of ideas, than out of a drive for profit from coin appreciation. It's this same kind of idealism that has sustained Bitcoin through rough times.
+
+Where funding is required, Hive developers either invest their own funds or leverage the Decentralized Hive Fund (DHF) proposal system to assist in financing their work. The DHF is essentially a proposal-based DPoS financing alternative which places the consensus behind direct financing into the hands of the Hive stakeholders. Investors can choose to support those projects that benefit the Hive ecosystem or generally promote the goals of Hive for a more free and egalitarian world.
+
+### Statement 2: 
+Our strategy for building a strong community is to empower our existing users and welcome new ones. One of our prime goals is to ensure accessibility for all. Everyone on Hive can partake in a wide range of activities. Those include blogging, participating in discussions, curating others, building and engaging with dapps, playing games and more; their limits are only constrained by their own imagination.
+
+Hive recognizes that transaction fees are often one of the largest challenges to facilitating development and flexibility of use on a blockchain. Instead of requiring potentially costly and inconvenient transaction fees, Hive uses a novel stake-based Resource Credit mechanism to create a fee-less model. This directly translates to enabling any individual to join the Hive community in the way that is right for them; every member of the ecosystem is empowered to find their own success on Hive. It also directly correlates with strengthening our community and expanding our global reach.
+
+### Statement 3:
+Hive is not based in any specific jurisdiction and has nodes, stakeholders and contributors in many countries all over the globe. Hive is fully decentralized and as such is afforded special protection in the US, for instance, which honestly is closer to an acknowledgement it can't be stopped. This is simply one example of many and also serves as a key motivational factor for our existing community.
+
+As far as security and privacy go, the Hive decentralized community is regularly monitoring for attacks. We have social features and funding mechanisms with an active and engaged community that have fended off an outlandish exchange hot-wallet voting attack that lead to the creation of Hive. Our users enjoy human readable accounts with different key levels, multi-sig, account recovery and memo keys that elevate PGP encryption to mitigate man-in-the-middle attacks. We have monitoring tools and processes in place to screen for phishing attempts of our users and assist them as possible should they fall victim to scammers. Our bases are covered, and our history is the proof.
+
+### Statement 4:
+We already had one Hackathon and will hold another one in due course. The first Hackathon raised over $4,000 USD and resulted in 14 new projects for Hive. Three of these projects received a portion of the prize pool, the winning project provides a massive improvement to Hive's onboarding process and is used by many Hive projects today. The second Hackathon is currently being prepared. Keep an eye on this site for updates: https://hivehackathon.com
+
+### Statement 5: 
+Hive uses a novel stake-based Resource Credit (RC) mechanism to create a fee-less model. As users use the chain more often they will consume more RCs, which automatically recharge daily. Dapp operators will be able to provide their users with free experiences on the chain by accumulating HIVE and then delegating their RCs to new users. This means that as the network grows, demand for RCs, and thereby demand for HIVE from operators grows with it. Hive also has a range of markets. Dapps focus on gaming, content platforms and NFTs for artists and content creators. These dapps on Hive have their own markets and marketing strategies for growth. In this way Hive focuses on many markets.
+
+### Statement 6:
+Hive has free transactions but no built-in smart contracts at this time. What we do have are developers that are taking our advantages and running with them. Layer 2 solutions that enable far more affordable and accessible DeFi have been proposed and are actively being developed. As it looks now, these solutions are secure and when compared to ETH, highly inexpensive. Everything from issuing NFTs to performing a swap will be more efficient and therefore more economical for creators and end-users. If you thought DeFi was hot when transactions cost $30 a piece, just wait until anybody in the world can afford to run them.
+
+One of the dapps built on Hive, 3speak, is developing a service infrastructure pool (SIP), which is essentially a DeFi pool that takes in payments for services (such as video infrastructure), locks them in the pool forever so that it continuously grows and uses the earnings it makes in DeFi fees to pay out users running nodes that provide the service. The SIP model will likely be rolled out for various service types. The first service will be decentralised video infrastructure on the hive block chain.
+
+Hive Engine is a Layer 2 smart contract platform already built on top of the Hive blockchain. The mission of the company is to make Hive the best and easiest place to start a block chain business. To accomplish their mission they enable easy creation of fungible and nonfungible tokens, and empower them with no-code, easy to use, configurable business logic smart contracts. Hive Engine is expecting to further decentralize their smart contract platform in the near future with a P2P Witness System. In addition, they are planning on introducing Uniswap-style liquidity pools and algorithmic stable coins to kickstart the decentralized finance revolution on the Hive blockchain.
+
+### Statement 7:
+The Hive blockchain is a fast, fee-less, scalable solution for a decentralized web. Investors, developers and end users meet in a robust, engaged community where the HIVE token allows near instantaneous transaction of value and wallet addresses are usernames that unlock an entire ecosystem of services.
+
+For the investor, HIVE is a cryptocurrency unfettered by long wait times or hefty fees. Move value quickly without eating into your funds! Three second block times on a network producing some of the highest recorded daily transaction numbers at a minimum resource utilization meet easy to remember customizable wallet addresses, the ability to include end to end encrypted memos with transfers, and multiple options (tiered keys and staking) for holding and accessing funds safely from anywhere.
+
+Hive boasts some of the largest communities and blockchain apps in the world. Games like Splinterlands are consistently ranked #1 for gaming across a variety of established blockchain app ranking sites. Leo Finance is a thriving tokenized community that reached a market cap of over 2 million with just its token. Hive is also among the top actively used blockchains in the world, and we are backed by real users interacting with the blockchain every day. Hive is a community that produces communities, and Hive offers all the tools someone would need to grow a thriving Web 3.0 ecosystem.
+
+### Statement 8:
+Hive was created as an independent and decentralized fork of the Steem blockchain. In early 2020, the Steem community which was established on the values of decentralization found itself facing a hostile takeover by the Tron Foundation following the sudden sale of the founding company, Steemit Inc, to Justin Sun. Steemit Inc's disproportionate influence on the public Steem blockchain was originally kept in check by a social contract. When the social contract was broken and a 51% Attack (a DPOS-based attack) was launched, the established community abandoned the now-centralized Steem and created Hive. Hive is an example of a grass-roots community that shares the core values of decentralization and freedom coming together to stand up to corporations and win. With this, Hive truly is the blockchain for Web 3.0.
+
+### Statement 9:
+We value all outreach and marketing opportunities for Hive and are constantly looking for venues to tell our story and share our ecosystem with others. In December we held our virtual HiveFest annual event. There is a Hackathon and other initiatives coming up that will be announced when finalized. We are regularly engaged in collaborative outreach opportunities, such as this excellent AMA, and welcome all connections.
+
+Hive is always open to strategic collaborations with those who share our goals and values. Recognizing the mutual value in a strategic collaboration enables Hive to grow as an ecosystem. Other like-minded groups and organizations see the value and potential in Hive and the ideas it stands for. We are all part of a greater movement towards decentralization, independence, freedom and innovation. In that, we are more alike than different.
+
+Our current relationships include our many prominent exchanges, listing sites, collaborations with MarketSquare/Ark blockchain, service providers such as GetBlock, and of course Kyros Ventures/Coin68.
+
+### Statement 10:
+Hive is mainly an online project. That said previously, Hive-users with feel for marketing would have attended blockchain industry events and for example game conferences. With Covid-19 these have come to a halt. The annual HiveFest which before saw 4 IRL editions in Europe and Asia was about to be cancelled but has then been "relocated" to virtual reality with a 400% visitor increase as a result (compared to past year's IRL conference in Bangkok, Thailand, 200% compared to ATH visitor numbers of Krakow 2018).
+
+Hive is perfectly poised to support Layer 2 solutions and already has some built on it. We've addressed DeFi in our answer to question 5 but will touch on it further.
+
+As Hive is composed of many dapps and communities, there have been numerous innovative approaches to DeFi on Hive. The Leo Finance community token, wLEO, is another token that can be wrapped and staked in DeFi pools on Ethereum. This token has shown strong growth and has several million dollars are currently staked. Another important up-and-coming system is called DLUX, which will encompass DeFi and smart contracts with open source development. The Hive ecosystem in general is rounded out by teams like Blocktrades looking to create further robust second layer infrastructure to help support all types of development needs.
