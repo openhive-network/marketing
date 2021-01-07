@@ -1,4 +1,4 @@
-*Ref:* [AMA story statements](https://gitlab.syncad.com/hive/marketing/amas/)
+*Ref:* [AMA story statements](https://gitlab.syncad.com/hive/marketing/-/tree/master/strategy/AMAs)
 
 ## Our Service
 
