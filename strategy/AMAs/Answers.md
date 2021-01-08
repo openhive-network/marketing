@@ -52,3 +52,57 @@ Hive is mainly an online project. That said previously, Hive-users with feel for
 Hive is perfectly poised to support Layer 2 solutions and already has some built on it. We've addressed DeFi in our answer to question 5 but will touch on it further.
 
 As Hive is composed of many dapps and communities, there have been numerous innovative approaches to DeFi on Hive. The Leo Finance community token, wLEO, is another token that can be wrapped and staked in DeFi pools on Ethereum. This token has shown strong growth and has several million dollars are currently staked. Another important up-and-coming system is called DLUX, which will encompass DeFi and smart contracts with open source development. The Hive ecosystem in general is rounded out by teams like Blocktrades looking to create further robust second layer infrastructure to help support all types of development needs.
+
+## Batch 2:
+*Ref:* [Huobi Global Joint AMA](https://hive.blog/hiveblockchain/@hiveio/huobi-global-official-hive-listing-announcement-giveaways-ama-chat-transcripts)
+
+### Statement 1:
+Hive is a Graphene-based social blockchain launched on 03/20/2020 with the core idea of decentralization. Hive's prime selling points are its true decentralization, speed and scalability. Other notable features include it having the lowest entry-barrier for user adoption in the market, time delay security, integrated token allocation, and the upcoming Smart Media Token integration. It is an ideal building location for a variety of innovative projects focused on a broad range of fields, from open source development to social games. Hive aims to be the preferred blockchain for dApp development.
+
+### Statement 2:
+Hive is a truly grassroots example of a decentralized proof of stake (dpos) blockchain with a concrete and proven utility as a social media and app-centric ecosystem. Hive has already proven itself to be attractive for non technical people, which is quite a feature in the blockchain world. It also boasts some of the fastest transaction blocktimes (3 seconds only). There is also a substantial decentralized hive fund which allows for continuous growth of the development of the chain and the dapps building on the blockchain.
+
+### Statement 3:
+Although Hive initially launched as a social media blockchain, and continues to strive to do so, more and more external (d)apps use the network. Not only to connect to the Hive content reward mechanism but also to utilize the 3 second fast blocktime and near instant confirmation (irreversibility after 1 minute) for an array of apps. With its flexible and easy to use, recognizable RESTfull APIs it is a breeze to implement a Hive integration to any app, whether it’s a utility, gaming, or in the social sphere. With the continued development on Smart Media Tokens, the Hive chain will cater to those other (d)app projects willing to launch a token-based reward system, which runs on the Hive network. As a result, Hive has a wide range of utility and organic growth. It also has the increased security that comes from a truly open source and public blockchain, where all stakeholders have a say in its direction. It sports resilience by design from the exit scams and other similar issues affecting the Altcoin community.
+
+### Statement 4:
+Did you know that Hive does already have more than 1.3 million wallets? The cool thing is those wallets are named accounts, not some randomized string. Your username is your wallet address! Hive has proven to be an entry point into the cryptoworld for many through its ease of use and plethora of apps available for using.
+
+The Hive developer ecosystem came up with an array of open source native desktop apps, mobile apps, and browser plugins to take away the “hassle” of safely & securely handling and storing private keys. Lowering this entry barrier of user growth, combined with fast block times and free transactions results in adoption of the blockchain by new (d)apps every day. This is a positive spiral upwards!
+
+### Statement 5:
+Hive is projected to remain a decentralized community effort with no sole official representation. Instead, community groups have and are projected to organically form and lead the promotion of Hive. Informally, there are already companies and umbrella groups and collaborations working on marketing and code. There are also volunteers producing posts and events like this AMA. The Hive proposal system and passionate members of the ecosystem will band together to drive grassroots or professional marketing initiatives. Additionally, in an ecosystem where anyone can build anything and the blockchain is the skeleton that allows businesses, projects, services and dapps to flesh out their ideas, marketing Hive goes hand in hand with marketing the ventures. 
+
+### Statement 6:
+The ultimate goal of Hive is to flourish as a decentralized ecosystem that can support and provide an outlet for the voices and needs of a global userbase and audience. This is being achieved by:
+
+- having a unique content rewards and curation model to build upon
+- a user friendly crypto wallet with easy login flow for signing on users to (d)apps
+- versatile “custom JSON” blockchain object storage API.
+- and not to forget; fast 3 second blocktimes to get transactions executed within acceptable waiting time (1.5 seconds on average).
+
+So far it’s been proven that Hive can be used for a wide variety of dapps. Ultimately the goal is to create a decentralized ecosystem that is used by an ever increasing amount of dapps and users. This has it’s challenges of course, but a lot of passionate people work day in day out on improving the Hive network.
+
+### Statement 7:
+There is no "team". Hive is a decentralized community who wanted to move forward. Hive was originally developed as a fork of the Steem blockchain. It was created on March 20th, 2020 as a community-driven fork. The vision behind it was to continue the strong community values that have been established while also freeing the formerly Steem-based ecosystem from the burden of Steemit Inc’s influence.
+
+### Statement 8:
+Hive has an active userbase and mature infrastructure for building dApps. One of Hive’s primary use-cases, social media, does not require complex integration with real-world players.
+
+Onboarding the masses is more natural because the masses use familiar interfaces. The dApp ecosystem is innovating targeted products for niche audiences that do not require users to understand blockchain jargon. In business terms, with a large userbase comes opportunities for synergistic monetization, and this bodes well for future token value! Bringing full ownership and control to its own community creates a unique environment where the network is owned by all. This drives passion for the network.
+
+We have seen this in the launch of the network and the past month with many (d)app owners converting to Hive and a fired up development cycle with a code freeze for the first hardfork already on it’s way. The amount of devs working on the core software and related libraries 20 folded compared to the old chain state. These “owners of Hive”, all token holders, are in it for the long term themselves. By already being active on the chain for 4 years, they did not want its values to be lost under a central entity and hence poured money, time and resources to make its creation and continuation a success. Once someone is part owner, it makes one dedicate more time and talent in their own “baby”.
+
+### Statement 9:
+There are two parts to [keeping developers attracted to Hive]; making it even easier for developers and incentivizing them to develop on Hive.
+
+The main interface for dApps is via JSON RESTfull API nodes, and there are mature libraries for popular languages such as javascript, python, java. The community is continuously working on improving documentation, simplifying libraries and providing tutorials via the GitLab repositories. Hive has existing ways to incentivize developers:
+- Developers can create funding proposals for the Hive Fund which are voted upon by the stakeholders.
+- Developers can post about their activity and receive social media rewards.
+- A big userbase can be flipped to use your project once you offer "Hive login"
+- Additionally, developers might see value in contributing to a decentralized world. dApp developers that create frontends have unique monetization opportunities to reward their investment of time and skill.
+
+New developers can follow community provided tutorials, which makes Hive an excellent choice for learning how to program for a blockchain. https://developers.hive.io/ for all docs!
+
+### Statement 10:
+There is no "hired" Hive development team; instead, there is a decentralized group of experienced developers who are contributing and working on a regular basis, keeping a similar pace to a traditional dev team. Many of them are the people who have built the Steem blockchain that Hive is forked on and have been part of development of Graphene projects for nearly half a decade.
