@@ -53,7 +53,7 @@ Hive is perfectly poised to support Layer 2 solutions and already has some built
 
 As Hive is composed of many dapps and communities, there have been numerous innovative approaches to DeFi on Hive. The Leo Finance community token, wLEO, is another token that can be wrapped and staked in DeFi pools on Ethereum. This token has shown strong growth and has several million dollars are currently staked. Another important up-and-coming system is called DLUX, which will encompass DeFi and smart contracts with open source development. The Hive ecosystem in general is rounded out by teams like Blocktrades looking to create further robust second layer infrastructure to help support all types of development needs.
 
-## Batch 2:
+## Batch 2
 *Ref:* [Huobi Global Joint AMA](https://hive.blog/hiveblockchain/@hiveio/huobi-global-official-hive-listing-announcement-giveaways-ama-chat-transcripts)
 
 ### Statement 1:
