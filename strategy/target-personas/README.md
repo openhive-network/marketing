@@ -10,6 +10,8 @@ Our target audience brings unique benefits to the Hive ecosystem as a whole whil
 
 Target personas are created to illustrate what a person who may fall into one of the three aforementioned target audience categories would be like. Their fictional experience serves to illustrate how Hive is solving a problem for them and granting them a unique opportunity. It also notes how they may benefit Hive and help it thrive.
 
+**Target personas presented in files denoted as Persona-# are user-submitted with no modification.** 
+
 ### Developer/Innovator (Default Example)
 **Jaspreet Gill**
 
