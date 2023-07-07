@@ -9,7 +9,6 @@
 # Social Links (Spanish)
 
 - Twitter: [@hiveblocks_es](https://twitter.com/hiveblocks_es)
-- Facebook: [@hiveblocks_es](https://www.facebook.com/hiveblocks_es/)
 - Instagram: [@hiveblocks_es](https://instagram.com/hiveblocks_es/)
 
 # Chat Links
