@@ -2,16 +2,15 @@
 
 This repository is designed to hold the master list of marketing, promotion and outreach-related material for Hive and its ecosystem. It is accessible for registered Gitlab users to discourage needless downloading.
 
-## How will this repository be used?
+## How is this repository used?
 
 It will host parts of the Hive marketing strategy including but not limited to:
-- Hive 'story' and statements
-- Target persona profiles
-- Analysis documents
-- Methods and opportunities
-- Relevant links
+- Hive 'story' statements and target personas
+- AMA components and existing answers
+- Calendars and scheduling
+- Example documents 
 
-It will also serve as a library for the Hive graphics and imagery donated by ecosystem members. 
+It will also serve as a library for the Hive graphics and imagery where possible.
 
 ## Contributing
 
