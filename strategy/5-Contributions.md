@@ -1,13 +1,17 @@
 ## Contribution to Hive marketing
 
-To create a marketing campaign we must have:
-- Establish a Mass Transformation Purpose based on Story Statements
-- Brand development, style manual, brief and commercial presentations.
-- Establish in which period of acquisition of new users we are in order to establish our target audience.
-- For B2B, be clear about the business model and opportunities through the solutions provided by HIVE.
+Hive marketing and promotion is goal-driven and focuses primarily on:
+- Getting investors to purchase, hold, and use HIVE and HBD as they see fit
+- Getting businesses to use HIVE and HBD for day to day transactions and sales
+- Inspiring startups and new innovators to create their projects on Hive
+- Inspiring the next generation of industry leaders to see Hive and decentralization as their choice of technology
+- Being a thought leader and speaking about Hive at conferences 
+- Pioneering Web3 discussion 
+- Promoting Hive through traditional media such as news articles and radio programming
+- Supporting the organic growth of Hive social channels 
+- Niche promotional activities where Hive will stand out
+- Creation of tangible opportunities to showcase the power of Hive and true decentralization
 
-### Scheduling
-To do this on an emergent basis may take 2 to 3 weeks and then create a digital marketing and advertising distribution strategy.
+## Approach 
 
-## Proposals Approach 
-This section will have a rough recommendation for proposals template-wise in order to encourage community submissions. 
+A professional approach is required for all Hive promotions. Hive promotions are crisp, attractive, interesting, educational and inspiring. 
