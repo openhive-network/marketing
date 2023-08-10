@@ -15,8 +15,14 @@ It will also serve as a library for the Hive graphics and imagery where possible
 ## Contributing
 
 To help collaborate please keep all contributions presented as either Issues or Pull Requests. Blog posts should not be linked at any time from any document. All text should be business-appropriate. 
+
 ## Related Repositories
 
 https://gitlab.syncad.com/hive/hive-whitepaper
 - Whitepaper
 - Technical Vision
+
+## Hive Assets
+
+- Logos and more https://hive.io/brand 
+- FontAwesome https://fontawesome.com/icons/hive?s=solid&f=brands 
