@@ -1,1 +1,0 @@
-This folder has elements of the Hive "Story" section but is composed of AMA answers from different AMAs. 

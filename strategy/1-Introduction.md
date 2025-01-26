@@ -1,4 +1,4 @@
-# Hive Marketing Strategy
+# Hive Marketing Strategy (General)
 
 
 ## Purpose Statement
