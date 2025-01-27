@@ -9,16 +9,19 @@ Hive values:
 ### Community Input
 
 Buttcoins:
+
 1. Commitment to Decentralization
 2. Revenue Participation
 3. User ownership of Digital Sovereignty
 
 Blackheart1:
+
 1. Gasless Transactions
 2. Scalability
 3. Content Creator Rewards
 
 Globalcurrencies:
+
 1. descentralized
 2. feeless
 3. easy to use
