@@ -125,6 +125,8 @@ https://drive.google.com/drive/folders/1SfNAX5NFnbnudmhNNRUdSWTYK7jrPRX9?usp=dri
 - Hive merch YES covered for the attendee to wear
 - No insurance or any other costs covered
 
+# 3. Project Management 
+
 ## Records
 
 ### Receipt and Document Management
