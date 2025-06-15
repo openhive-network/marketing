@@ -147,7 +147,7 @@ If you have a credit card with a large limit and can put your flights or merch p
 
 ### Per diems
 
-Per diems are funds to ensure everyone has three sufficient meals during a full day of volunteering for Hive. Per diems are not meant to reflect local restaurant prices for all means but be a combination of food purcahses from different sources.
+Per diems are funds to ensure everyone has three sufficient meals during a full day of volunteering for Hive. Per diems are not meant to reflect local restaurant prices for all means but be a combination of food purchases from different sources.
 
 - 30 HBD per day 
 - Only issued for event days/full days of work
