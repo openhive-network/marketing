@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1SfNAX5NFnbnudmhNNRUdSWTYK7jrPRX9?usp=dri
 
 # **Value Plan-Specific Section**
 
-# Process
+# 1. Process
 
 ## Project Planning
 
@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1SfNAX5NFnbnudmhNNRUdSWTYK7jrPRX9?usp=dri
 - Document the event in social media, on chain, or otherwise as applicable for the event
 - Save all your receipts and documents and file them as specified below
 
-# Definitions
+# 2. Definitions
 
 ## Hive "Merch"
 
