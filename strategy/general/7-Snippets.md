@@ -9,11 +9,16 @@
 - "True decentralization refers to spreading out both decision control and infrastructure across multiple locations, individual and nodes — crowdsourcing. A fully-decentralized network is far more stable and reliable than one with a central point of control. It is true Web3."
 
 - "What is the value of true decentralization?
--- Carbon-neutral
--- Resilient to cyber attacks 
--- Immutable and secure
--- Free from manipulation
--- Impervious to climate change and natural disasters"
+
+- - Carbon-neutral
+
+- - Resilient to cyber attacks 
+
+- - Immutable and secure
+
+- - Free from manipulation
+
+- - Impervious to climate change and natural disasters"
 
 - "No transaction fees means that Hive is safe gateway between Web2 and Web3."
 
