@@ -10,15 +10,15 @@
 
 - "What is the value of true decentralization?
 
-- - Carbon-neutral
+    - Carbon-neutral
 
-- - Resilient to cyber attacks 
+    - Resilient to cyber attacks 
 
-- - Immutable and secure
+    - Immutable and secure
 
-- - Free from manipulation
+    - Free from manipulation
 
-- - Impervious to climate change and natural disasters"
+    - Impervious to climate change and natural disasters"
 
 - "No transaction fees means that Hive is safe gateway between Web2 and Web3."
 
